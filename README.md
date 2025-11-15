@@ -33,9 +33,10 @@ Synkro develops projects across several core domains:
 
 This is the main Synkro repository and serves as the entry point for the full ecosystem.  
 
-/projects → Active and archived Synkro builds
-/docs → Documentation, diagrams, infographics
-/assets → Logos, icons, brand resources
-/team → Member information & internal guidelines
+-projects → Active and archived Synkro builds
+-docs → Documentation, diagrams, infographics
+-assets → Logos, icons, brand resources
+-team → Member information & internal guidelines
+
 Project-specific repositories live under the Synkro organization profile.
 
