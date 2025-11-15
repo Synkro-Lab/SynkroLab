@@ -1,4 +1,4 @@
-# Welcome to your organization's demo respository
+
 # Synkro
 
 Synkro is a collaborative engineering group focused on robotics, automation, embedded systems, and applied mechatronics.  
