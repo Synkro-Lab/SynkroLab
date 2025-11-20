@@ -1,6 +1,9 @@
 
 # Synkro
 
+An open, permissionless robotics research group based in Colombia.
+
+
 Synkro is a collaborative engineering group focused on robotics, automation, embedded systems, and applied mechatronics.  
 We design, build, and refine real-world solutions that integrate hardware, software, and intelligent control.
 
